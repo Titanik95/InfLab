@@ -8,6 +8,8 @@ namespace INF_LAB
 {
 	enum Method
 	{
-        Substitution
+        Substitution,
+		Transposition,
+		Linear
 	}
 }
